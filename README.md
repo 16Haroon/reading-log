@@ -1,3 +1,3 @@
 # Abdullah’s reading log
 
-Open `index.html`. That’s the whole page.
+Open Open [index.html](index.html).`. That’s the whole page.
