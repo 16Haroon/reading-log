@@ -1,2 +1,3 @@
-# reading-log
-Keeping track of my reading here. 
+# Abdullah’s reading log
+
+Open `index.html`. That’s the whole page.
